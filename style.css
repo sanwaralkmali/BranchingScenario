@@ -1,0 +1,86 @@
+
+*{
+  word-wrap: break-word;
+  padding: 0;
+  font-family: aria-label;
+}
+.text-container{
+  background: black;
+
+}
+body{
+  background-color: rgb(42, 34, 36);
+
+}
+
+.text-container h3{
+  font-size: 50px;
+  margin: 0 !important;
+  padding: 15px;
+  color: rgba(255,255,255,1);
+  background-image: url(images.jpeg);
+  background-repeat: round;
+  background-size: contain;
+  background-position: center;
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: animate 20s linear infinite;
+}
+
+ @keyframes animate {
+   0%{
+     background-position: left 0px top 10px;
+   }
+
+   25%{
+     background-position: left 100px top 10px;
+   }
+   50%{
+     background-position: left 170px top 10px;
+   }
+   75%{
+     background-position: left 100px top 10px;
+   }
+   100%{
+     background-position: left 0px top 10px;
+   }
+
+ }
+.container2{
+  padding: 0 !important;
+  margin: 0 !important;
+  margin-top: 6% !important;
+  justify-content: center !important;
+  align-content: center !important;
+  align-items: center !important;
+
+}
+.jumbotron{
+  text-align: center;
+}
+.center{
+  text-align: center;
+  justify-content: center !important;
+  align-content: center !important;
+  align-items: center !important;
+
+}
+.row{
+  width: 100%;
+}
+.q{
+  margin: 0 !important;
+width: 100% !important;
+}
+#choice2 , #choice1{
+  width: 50%;
+}
+#choice2:hover , #choice1:hover{
+background-color: rgb(100, 150, 100);
+color: black;
+
+}
+.modal{
+  margin-top: 10% !important;
+
+}

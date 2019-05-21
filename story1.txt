@@ -1,0 +1,61 @@
+1 | ~Late to Class~ | You wake up, it's 9:45 AM. Class is at 10! What do you do?
+1-1 | Jump out of bed | You jump out of bed, ready to get to class as fast as you can.
+1-1-1 | Put on clothing | You slip on your clothing and run out the door. Hmm.. what's faster?
+1-1-1-1 | Take outer loop | You hop on board, but the bus doesn't seem to be moving yet.
+1-1-1-1-1 | I have time... | You stay on the bus, your eyes feel a bit droopy...
+1-1-1-1-1-1 | Close eyes real quick until the bus moves | You close your eyes and when you wake up it's dark outside. You missed class, Professor isn't proud. You Lose.
+1-1-1-1-1-2 | MUST. STAY. AWAKE. | After 10 minutes, the bus finally gets a move on. It arrives to the SAC at 10:05.
+1-1-1-1-1-2-1 | Run to class | You get to class and no one notices you're late, because they're all late too. You Win!
+1-1-1-1-1-2-2 | It's past 10 anyway, no point going to class | You decide to skip class and go eat in the SAC. You miss the most important lecture of the year. You Lose.
+1-1-1-1-2 | Screw the bus, I'm late! | You get off the bus and head to class on foot. It's 9:55.
+1-1-1-1-2-1 | Run, must be on time! | You enter the SBS building.
+1-1-1-1-2-1-1 | Use the elevator | The elevator gets stuck between the second and third floor. You miss class. You Lose.
+1-1-1-1-2-1-2 | Use the stairs | Half way up the stairs your heart remembers your lack of physical exercise. You collapse in the staircase and miss class. You Lose.
+1-1-1-1-2-2 | Walk, what's 5 minutes going to matter?| Hey, there's your friend Jim you conveniently haven't seen in two semesters!
+1-1-1-1-2-2-1 | No time to talk, it's already past 10 | You get to class at 10:15 and are able to catch up. You Win!
+1-1-1-1-2-2-2 | Talk to Jim | Jim doesn't remember you
+1-1-1-1-2-2-2-1 | I'm that guy from that class that sat across the room from you! | He still doesn't remember, after 10 minutes. Now you're already 30 minutes late. You Lose.
+1-1-1-1-2-2-2-2 | Leave because he's not worth your time | You get to class pretty late, but it's nothing too bad. You (kinda?) Win!
+1-1-1-2 | Run | *Grumble* You never ate breakfast.
+1-1-1-2-1 | Stop in the SAC | You stop off at the SAC and there's only one store left open: That Bad One No One Likes
+1-1-1-2-1-1 | Skip it, class is more important! | You skip getting food and continue to class. Even without the extra energy you make it to class on time. You Win!
+1-1-1-2-1-2 | Eh, I gotta live somehow... | You get the food and immediately your body rebels.
+1-1-1-2-1-2-1 | Go to the bathroom | You get stuck in there for 40 minutes. You miss class. You Lose.
+1-1-1-2-1-2-2 | GO. To. CLAAASSS!!! | You get to class, but feel very uncomfortable because of the food you just ate. You ignore the entire lecture. You Lose.
+1-1-1-2-2 | NO. TIME. | You trudge on. WAIT! Some club you've never heard of is selling cupcakes to support a charity you've never heard of!
+1-1-1-2-2-1 | You do like cupcakes though... | You buy a cupcake and help the cause, you're a great person, but unfortunately that won't get you to class on time.
+1-1-1-2-2-1-1 | Cupcakes are more important than class! | Nope. You Lose!
+1-1-1-2-2-1-2 | I'll still make it on time... | True. You reach the SBS building the same time as your professor.
+1-1-1-2-2-1-2-1 | Walk behind them awkwardly so they don't notice you | They notice you. Now you have to pretend you have a question for them. You Lose.
+1-1-1-2-2-1-2-2 | Say hi, then enter the bathroom | You successfully avoid an awkward confrontation, and make it to class on time after, too. You Win!
+1-1-1-2-2-2 | Keep moving | You make it to class on time, but don't help the charity. You win, but only questionably.
+1-1-2 | Eat breakfast | You eat breakfast, it's not 9:55.
+1-1-2-1 | RUUNNNN!!! | While running you trip over a banana peel, and can't tell if you sprained your ankle or not.
+1-1-2-1-1 | Go to the hospital| You go to the hospital, and they tell you it's nothing.
+1-1-2-1-1-1 | Go to class | You arrive at 11:10. Whoops... You Lose.
+1-1-2-1-1-2 | Go home | You get home, right back where you started. You Lose.
+1-1-2-1-2 | Go to class| Half way there you fall over yourself because you actually did sprain your foot.
+1-1-2-1-2-1 | GO. TO. CLASS. | You get to class but can't concentrate because of the pain. You Lose.
+1-1-2-1-2-2 | Go home and make a makeshift splint | Your foot's better, but you missed class. You Lose.
+1-1-2-2 | I'm late anyway... | You take your time. On your way there you notice a shiny piece of gold in the ground.
+1-1-2-2-1 | Dig it up | It's a golden chest. Open it up?
+1-1-2-2-1-1 | No, it's not mine | Good choice, it was full of scorpions. You keep moving to class.
+1-1-2-2-1-1-1 | Walk | You walk slowly, carefully, and make it to class at 10:10. Not to shabby. You Win!
+1-1-2-2-1-1-2 | Run | You run to class, and make it there 10:05. Not bad! You Win!
+1-1-2-2-1-2 | YEAH!| You open it and 50 scorpions jump at you. You die. You Lose.
+1-1-2-2-2 | Maybe you'll have time later...| No, no you won't. But you did make it to class on time. You Win!
+1-2 | Eh, it's just lecture, I can skip it anyway.| You decide to skip class since it isn't the lab portion.
+1-2-1 | Go to SAC | You see a group of guys playing Settlers of Catan.
+1-2-1-1 | Ask to join | They let you join. You need one victory point to win.
+1-2-1-1-1 | Buy a development card| It's a victory point! You Win!
+1-2-1-1-2 | Wait a turn for a city | The guy next to you has 3 hidden points, he builds a city and wins. You Lose.
+1-2-1-2 | Watch | You watch an amazing game unfold. Somehow, it's 10 at night. You gotta wake up early tomorrow! You Lose.
+1-2-2 | Meet with friends| They're all in class.
+1-2-2-1 | Browse facebook | You browse facebook. Somehow it's 10 at night. You gotta wake up early tomorrow! You Lose.
+1-2-2-2 | Go biking | While biking you come across a kid on the ground crying
+1-2-2-2-1 | Ride around him | You're cruel. You Lose
+1-2-2-2-2 | Help him | You get off your bike to help him. He tells you he's terribly hurt.
+1-2-2-2-2-1 | Call an ambulance | They come, thank you. Years later he wins a Nobel Prize. You saved one of the great minds of a generation. You did the right thing. You Win!
+1-2-2-2-2-2 | Take him to the hospital yourself| As you arrive to the hospital, he thanks you. Years later he recognizes you.
+1-2-2-2-2-2-1 | I remember you! | He hugs you and thanks you for saving him. He then treats you to the greatest dinner of your life. You Win!
+1-2-2-2-2-2-2 | I... I can't remember... | He understands why you wouldn't remember, and walks away disappointed. You then remember who he is, but it's too late. You Lose.

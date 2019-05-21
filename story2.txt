@@ -1,0 +1,15 @@
+1 | ~Test~ | You wake up. What do you do?
+1-1 |Eat Pizza|You need to throw up because no one likes pizza in the morning. Where do you throw up?
+1-1-1 |The Bathroom |You enter the bathroom
+1-1-1-1 | Throw up into the toilet| It gets all over everything. Yuck ~End
+1-1-1-2 | Throw up into the bath tub| A quick cleanse with the shower hose and it's all gone. ~End
+1-1-2 |Your Room | You enter your room.
+1-1-2-1 | Throw up onto bed| You throw up onto your bed. Good Job. ~End
+1-1-2-2 | Throw up out window| You throw up onto an old man walking by. Good job. ~Lose
+1-2 | Drink Soup | You're ready to go to school, after a nice breakfast.
+1-2-1 | Take the bus| You take the bus. There's an old lady with 60 shopping bags.
+1-2-1-1 | Help her move them| You're a nice citizen, she thanks you.~Win
+1-2-1-2 | KNOCK THEM DOWWWNNNN| You knock down her bags and everyone gives you a nasty look. Good job. ~Lose
+1-2-2 | Walk| You walk down the street, there are only 5 minutes to class.
+1-2-2-1 | Run| You run to class and on the way get hit by a car.~Lose
+1-2-2-2 | Walk| You walk into class 15 minutes late, the teacher kills you.~Lose

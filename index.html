@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Branshing Game</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="text-container">
+    <h3 style="letter-spacing: 7px;">MIKE</h3>
+  </div>
+  <div class="row container2">
+    <div class="jumbotron col-md-7 col-sm-10 col-lg-6">
+      <h1 class="display-5 m-3">Branshing Game</h1>
+      <p class="lead m-3">This is a simple Game</p>
+      <hr class="my-4">
+      <p class="m-3">It uses the user answers to tell story about him ... </p>
+      <a class="btn btn-primary btn-lg m-2" href="#" role="button" data-toggle="modal" data-target="#exampleModal">Start the Game</a>
+    </div>
+  </div>
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <div class="row center">
+            <h5 class="modal-title center" id="exampleModalLabel">Branching Game</h5>
+          </div>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body center">
+          <div class="storiesChosser row center" id="storiesChosser">
+            <div class="alert alert-danger" style="display: none" id="wrongMessage">
+              <strong>Wrong file!</strong>
+            </div>
+            <div class="row p-4">
+              <h6>Please choose the story file </h6>
+            </div>
+            <div class="center" style=""><input style="display: block; width: 100%" class="" type="file" id="myFile"></div>
+          </div>
+          <div class="row center" style="display: none; margin: 0px; padding: 0px;" id="Questions">
+            <div class="p-2 row"></div>
+            <div class="row center q" style="width: 100%;  margin: 0px; padding-bottom: 20px;">
+              <h5 id="quetion" style="font-weight:bold; "></h5>
+            </div>
+            <div class="row">
+              <div class="col-6 center">
+                <p id="answer1" style="margin: auto;"></p>
+              </div>
+              <div class="col-6 center">
+                <p id="answer2" style="margin: auto;"></p>
+              </div>
+            </div>
+            <div class="p-4 row"></div>
+            <div class="row center">
+              <div class="col"> <button type="button" name="button" id="choice1">1</button></div>
+              <div class="col"><button type="button" name="button" id="choice2">2</button></div>
+            </div>
+            <div class="row center"><a class="btn btn-primary btn-lg " href="#" role="button" id="startAgain" style="display: none;">Start Again</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="StoryLine.js"></script>
+
+</html>
