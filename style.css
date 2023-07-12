@@ -15,7 +15,7 @@ body{
 
 .text-container h3{
   font-size: 50px;
-  margin: 0 !important;
+  margin: auto;
   padding: 15px;
   color: rgba(255,255,255,1);
   background-image: url(images.jpeg);
