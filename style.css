@@ -18,13 +18,7 @@ body{
   margin: auto;
   padding: 15px;
   color: rgba(255,255,255,1);
-  background-image: url(images.jpeg);
-  background-repeat: round;
-  background-size: contain;
-  background-position: center;
-  -webkit-background-clip: text;
-  color: transparent;
-  animation: animate 20s linear infinite;
+
 }
 
  @keyframes animate {
